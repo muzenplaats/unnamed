@@ -1,0 +1,85 @@
+# Hello World
+
+The below is a macro template. It is in lang="sop".
+It is programming on line, and scriptiong in the real time.
+To learn it, please start it by yourself (lamda) or yoursevles
+(delta, i.e., circle-of-trus).
+
+##Example
+This is an **subject-object programming (SOP)** prior.
+
+```sop
+|| ~~~~~~~~~~~~~~~~~~~~~~~~~ hello-world.sop ~~~~~~~~~~~~~~~~~~~~~~~~
+|| Hello world!
+|| You and me with a third party.
+|| Currently you and your accompany is [F5 Compile] button and you
+|| are the [F9 Run].
+
+[>]
+  You like me.      || you -> *her*
+  I like you
+  We feel like a couple.   || we = I and *her*
+  But she really like me.  || she is another mate
+  I fancy her.             || she is her
+  I am in trouble now.  || So, I do some scripting to overcome it.
+
+  || The scripting is embedded in the sop program.
+  || Currently, the scripting language is free while the sop
+  || prorgraming has limited grammar in English.
+
+  [||]
+    || Scripting for my possible triangle relationship.
+    || I want to know her and understand her wiithout *her* notice.
+    || [1] If I like her, I want to introduce her to *her*.
+    || [2] Else I don't have an affair with her.
+    || is it fine for now?
+    ||
+    || || Do you want to coninue this template story? Yes.
+    || || Sorry that I just wake up I am hungrey.
+    || || [break here in half an hour]
+    ||
+    || I go for [1] because I like *her* and I fancy her.
+    || *She* is my girl and she is a lady and I want to make
+    || friends with here. I admire her taste in arts.
+    || I date with her in a gallecy without *her* notice.
+    || I found out that I really like her.
+    || I bought her a coffee. (I wanted to fuck her.)
+    || (Her behavior showed me that "I am fuckable.")
+    || I felt myself very excited.
+    || I touched her right hand by my left hand and they are
+    || attached.
+    || We just ate and I asked her to walk with me by the river.
+    || She agreed with me. (Our hands could not leave each other)
+    || We talked about everything, from the books to stars,
+    || including our dayly life. I am honest to her.
+    || I told her that I have a girfriend(*her*) and I like you
+    || and I fancy you. She knocked her hand and told me that
+    || she understood it.
+  [>]
+
+  I don't have a trouble with her now.
+  I want to make friends with her.
+  I may have trouble with *her* soon.
+
+  $ <- {error-code: 1, value: "Friendship with her"}
+  Print `$ = ${$}`
+  Return $ <- Friendship with her
+
+[[$]]
+|| ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
+
+Note than [F9] is compile and [F5] is run or compile-and-run.
+```log
+$ = 1 -> the friendship with her and I keep my fucking-her feelings
+         currently. I realy want to fuck her. I could not exaplain
+         the resulted lambda to *her* now. *She* is my girl.
+         (This is no offense of woman because man has this feeling.)
+
+# I want to continue this macro template, and I think that it is
+# enough for now.
+```
+
+Note that I follow the language conventions in several styles,
+style(s) and perhaps a style.
+The style here is about what I wanted (not sure yet).
