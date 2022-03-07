@@ -1,5 +1,5 @@
 # unnamed v1.3.5rc
-You and me are the same in freedom while you and I are individuals for the liberty.
+You and me are the same in freedom whilst you and I are individuals for the liberty.
 
 ## Icon
 ```
