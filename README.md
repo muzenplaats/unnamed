@@ -116,6 +116,8 @@ tested. The language is currently *unstable*, in `lang=sop-test`.
 
 ## Development
 The codename is `nature`. Currently, the project is 'Hello World' for the beginners.
+The programming language C++ is chosen because it is mainly a backend project and
+C++ is highly portable in the major operating systems.
 
 **Install**
 ```sh
@@ -130,6 +132,11 @@ make
 cd ../build
 ./main  # Hello World!
 ```
+
+In Windows operating systems, it can be run in [Dev-C++](https://www.bloodshed.net/)
+(integrated development environment, IDE),
+[MinGW](https://sourceforge.net/projects/mingw/) (command line),
+or other alternatives.
 
 
 ## Contributions
