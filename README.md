@@ -123,7 +123,7 @@ cd ~/Development
 git clone https://github.com/muzenplaats/unnamed.git
 ```
 
-**Build**
+**Run**
 ```sh
 cd unnamed/src
 make
