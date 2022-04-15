@@ -115,14 +115,28 @@ tested. The language is currently *unstable*, in `lang=sop-test`.
 - 2022-03-04_05 A global conference for the liberty
 
 ## Development
-The codename is `nature`.
+The codename is `nature`. Currently, the project is 'Hello World' for the beginners.
 
-Please report or raise issues in this repository.
-The contributions are welcome by the pull request.
+**Install**
+```sh
+cd ~/Development
+git clone https://github.com/muzenplaats/unnamed.git
+```
+
+**Build**
+```sh
+cd unnamed/src
+make
+cd ../build
+./main  # Hello World!
+```
 
 
 ## Contributions
 Via BountySource.
+
+Please report or raise issues in this repository.
+The contributions are welcome by the pull request.
 
 
 ## License
