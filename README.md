@@ -129,7 +129,7 @@ git clone https://github.com/muzenplaats/unnamed.git
 ```sh
 cd unnamed/src
 make
-cd ../build
+cd ../build  # Output to build/
 ./main  # Hello World!
 ```
 
@@ -142,6 +142,7 @@ or other alternatives.
 ```sh
 cd unnamed/src/frontend
 # It is open here.
+# Output to dist/
 ```
 
 
