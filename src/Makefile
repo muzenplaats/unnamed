@@ -1,0 +1,3 @@
+main:
+	@echo Building the project...
+	g++ main.cpp -o ../build/main
