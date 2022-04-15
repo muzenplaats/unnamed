@@ -125,7 +125,7 @@ cd ~/Development
 git clone https://github.com/muzenplaats/unnamed.git
 ```
 
-**Run**
+**Run (backend) **
 ```sh
 cd unnamed/src
 make
@@ -137,6 +137,12 @@ In Windows operating systems, it can be run in [Dev-C++](https://www.bloodshed.n
 (integrated development environment, IDE),
 [MinGW](https://sourceforge.net/projects/mingw/) (command line),
 or other alternatives.
+
+**For front-end developers**
+```sh
+cd unnamed/src/frontend
+# It is open here.
+```
 
 
 ## Contributions
