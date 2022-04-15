@@ -125,7 +125,7 @@ cd ~/Development
 git clone https://github.com/muzenplaats/unnamed.git
 ```
 
-**Run (backend) **
+**Run (backend)**
 ```sh
 cd unnamed/src
 make
