@@ -159,5 +159,5 @@ The contributions are welcome by the pull request.
 
 ## License
 This is free and unencumbered software released into the public domain.
-The license is Unlicense <http://unlicense.org/>.
+The license is the Unlicense <http://unlicense.org/>.
 Please refer to the LICENSE file in the same folder.
