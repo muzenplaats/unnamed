@@ -16,7 +16,7 @@ class Person extends Human {
 }
 class Straight extends Person {  // 2 cat.
   gender: sex,
-  type: 'hetro',
+  type: 'hetero',
   population: s  // typical
 }
 class Gay extends Person {       // 1 cat.
@@ -38,7 +38,7 @@ class Bi extends Person {       // 2 cat.
 class Trans extends Person {    // 6 cat.
   sex: 'male' | 'female',
   gender: 'female' | 'male',
-  type: 'trans-homo', 'trans-hetro' or 'trans-h.-h.-conti.'
+  type: 'trans-homo', 'trans-hetero' or 'trans-h.-h.-conti.'
   population: t  // rare
 }
 // 12 categories of the person class in total
