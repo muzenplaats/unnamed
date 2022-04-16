@@ -127,7 +127,9 @@ git clone https://github.com/muzenplaats/unnamed.git
 
 **Run (backend)**
 ```sh
-cd unnamed/src
+cd unnamed
+mkdir build  # only for the first time
+cd src
 make
 cd ../build  # Output to build/
 ./main  # Hello World!
@@ -140,7 +142,9 @@ or other alternatives.
 
 **For front-end developers**
 ```sh
-cd unnamed/src/frontend
+cd unnamed
+mkdir dist  # only for the first time
+cd src/frontend
 # It is open here.
 # Output to dist/
 ```
