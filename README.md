@@ -1,11 +1,11 @@
-# unnamed v1.3.5rc
+# unnamed v1.3.6
 You and me are the same in freedom whilst you and I are individuals for the liberty.
 
 ## Icon
 ```
 人人 = 民(2人) = 仁
 ```
-It is beautiful when people are kind in a village.
+It is beautiful when people are kind in a village (里仁為美).
 
 
 ## Slogan
@@ -13,22 +13,14 @@ A human and another are two kind people.
 
 
 ## Introduction
-(Raw Draft)
-
-///////////////////// (To be rewriten) //////////////////////////
-////////// /////////////////////////////// ///////////////////////
 ```
-Lambda ::= 人(human)
+// Lambda ::= 人(human)
 ```
 Comments,
 ```
 (3人) == (人人人) => 乑 = 眾(crowd)`.
 ```
-The above is a temporary recognition between human, people and the
-crowd. Currently, this repository is private but not public.
-////////// /////////////////////////////// ///////////////////////
-////////// /////////////////////////////// ///////////////////////
-
+The icon and the above are a recognition between human, people and the crowd.
 
 ## Usage
 The langualge is called subject-object programing. The main idea
