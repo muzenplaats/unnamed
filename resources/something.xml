@@ -1,0 +1,24 @@
+<?xml version="1.1" lang="UTF-8" standalone="no"?>
+<!Doctype something>
+
+<!-- The processing instruction (PI) session. -->
+<?do-something [attributes]
+  <-- Some language here. -->
+?>
+
+<!-- Some interplays are done between the above and the below. -->
+
+<something version="1.0.0" lang="a-little-common-english">
+  <!-- Something declarative here. -->
+  <!-- By elements, attributes, and content, toward the component level.
+       It is named something for the abstraction, and one shall think it
+       more concretely.
+   -->
+</something>
+
+<!-- 
+  Footnote
+  The version 1.0.0 is a working draft, there might possibly be
+  1.{minor}.{patch} or {major}.{minor}.{patch} in other forks.
+  The leader of the producer manages the updates of the devel branch.
+-->
